@@ -1,4 +1,4 @@
-# 🚀 Task Manager API — Huawei Cloud CodeArts Demo Project
+# 🚀 Health Check Task Manager API — Huawei Cloud CodeArts Demo Project
 
 A simple Python/Flask REST API designed specifically for demonstrating
 Huawei Cloud CodeArts end-to-end DevSecOps capabilities.
